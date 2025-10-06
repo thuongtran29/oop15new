@@ -1,0 +1,233 @@
+Thu do cua Viet Nam la gi?
+Ha Noi
+TP HCM
+Da Nang
+Hue
+
+Nguoi phat minh ra bong den dien la ai?
+Newton
+Tesla
+Edison
+Einstein
+
+Tac gia cua Truyen Kieu la ai?
+Nguyen Trai
+Nguyen Du
+To Huu
+Ho Xuan Huong
+
+Quoc hoa cua Viet Nam la gi?
+Hoa Mai
+Hoa Cuc
+Hoa Hong
+Hoa Sen
+
+Dai duong lon nhat the gioi la?
+Dai Tay Duong
+An Do Duong
+Thai Binh Duong
+Bac Bang Duong
+
+Chu tich nuoc dau tien cua Viet Nam la ai?
+Ton Duc Thang
+Ho Chi Minh
+Pham Van Dong
+Nguyen Van Linh
+
+So nguyen to nho nhat la?
+1
+2
+3
+0
+
+Hanh tinh gan Mat Troi nhat la?
+Sao Moc
+Sao Hoa
+Trai Dat
+Sao Thuy
+
+Chat nao la kim loai?
+Oxi
+Dong
+Khi
+Cacbon
+
+Thang nao co 28 ngay?
+Thang 2
+Tat ca cac thang
+Thang 4
+Thang 12
+
+Tac gia tac pham Tat den la ai?
+Nam Cao
+To Hoai
+Vu Trong Phung
+Ngo Tat To
+
+Dong tien cua Nhat Ban la?
+USD
+Yen
+Won
+Bath
+
+Phim Co dau 8 tuoi la cua nuoc nao?
+Han Quoc
+Trung Quoc
+An Do
+My
+
+Chu de cua bai hat Noi vong tay lon la gi?
+Tinh yeu
+Doan ket
+Tuoi tre
+Lao dong
+
+Tac gia Lao Hac la ai?
+To Hoai
+Vu Trong Phung
+Nguyen Du
+Nam Cao
+
+Quoc gia nao co hinh chiec ung?
+Phap
+Y
+Ha Lan
+Tay Ban Nha
+
+Nui cao nhat the gioi la?
+Everest
+Phanxipang
+Andes
+Alp
+
+Ngoi sao nao la trung tam cua he Mat Troi?
+Sao Moc
+Sao Kim
+Sao Hoa
+Mat Troi
+
+Chau luc lon nhat the gioi la?
+Chau Au
+Chau My
+Chau A
+Chau Phi
+
+Quoc gia dong dan nhat the gioi hien nay?
+My
+Nga
+Trung Quoc
+An Do
+
+Don vi tien te cua My la?
+Euro
+Bang Anh
+Yen
+USD
+
+He dieu hanh cua Microsoft la?
+macOS
+Windows
+Linux
+Android
+
+Dong vat nao duoc menh danh la chua son lam?
+Bao
+Su tu
+Ho
+Voi
+
+Quoc gia nao noi tieng voi kim tu thap?
+La Ma
+Ai Cap
+Hy Lap
+Trung Quoc
+
+Ngay Quoc khanh Viet Nam la ngay nao?
+30 4
+1 5
+19 8
+2 9
+
+Tac gia Vo nhat la ai?
+Nguyen Cong Hoan
+Nam Cao
+Kim Lan
+To Hoai
+
+Thanh pho duoc goi la thanh pho ngan hoa?
+Ha Noi
+Hue
+Da Lat
+TP HCM
+
+Song dai nhat Viet Nam la?
+Song Hong
+Song Cuu Long
+Song Da
+Song Mekong
+
+Ngon ngu chinh thuc cua Phap la?
+Tieng Anh
+Tieng Duc
+Tieng Y
+Tieng Phap
+
+Bieu tuong Olympic co may vong tron?
+6
+5
+3
+4
+
+Tac gia bai hat Tien Quan Ca la ai?
+Pham Duy
+Nguyen Anh 9
+Van Cao
+Trinh Cong Son
+
+Nam nhuan co bao nhieu ngay?
+364
+366
+360
+365
+
+Trai cay nao thuong xuat hien trong dip Tet?
+Cam
+Dua hau
+Xoai
+Tao
+
+Trong hinh hoc, tam giac co may canh?
+4
+3
+5
+6
+
+So nao lon nhat trong cac so sau?
+56
+77
+98
+89
+
+Ket qua cua phep tinh 12 x 3 la?
+42
+30
+24
+36
+
+Trong may tinh, CPU co chuc nang gi?
+Hien thi hinh anh
+Phat am thanh
+Xu ly du lieu
+Luu tru du lieu
+
+Chu cai dung de ky hieu so pi trong toan hoc la gi?
+Beta
+Pi
+Omega
+Alpha
+
+Ai la nha khoa hoc da tim ra thuyet tuong doi?
+Galile
+Newton
+Einstein
+Tesla
